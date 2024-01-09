@@ -1,1 +1,36 @@
 <h>CARA MENGGUNAKAN APLIKASI<H>
+
+tampilan halaman "Home"
+
+tampilan halaman "Mahasiswa"
+
+tampilan halaman "Organisasi"
+
+tampilan halaman "Laporan"
+
+klik navbar pada halaman "organisasi" kemudian klik "tambah organisasi" jika ingin menambahkan organisasi
+
+jika ingin menghapus organisasi, klik tombol "hapus"
+
+klik navbar pada halaman "mahasiswa" kemudian klik "tambah data" jika ingin menambahkan mahasiswa dan pada waktu pengisian kode organisasi, masukan kode organisasi yang tertera di halaman organisasi, pilihlah sesuai organisasi dan jabatan yang ingin dipilih
+
+jika ingin mengubah data mahasiswa, klik tombol "ubah"
+
+jika ingin menghapus data mahasiswa, klik tombol "hapus"
+
+klik navbar "home" untuk melihat seluruh data yang ada pada database "dbcrud_modal"
+
+klik tombol "total data" jika ingin melihat total data yang tersimpan
+
+klik "cari mahasiswa" jika ingin mencari mahasiswa tertentu dengan memasukan nim atau nama kemudian klik "cari"
+
+jika ingin kembali ke awal klik "reset"
+
+klik navbar "laporan" untuk melihat laporan data mahasiswa yang telah dimasukan
+
+klik "hapus" jika ingin menghapus laporan
+
+
+
+
+
