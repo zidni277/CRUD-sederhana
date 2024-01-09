@@ -1,6 +1,7 @@
 <h>CARA MENGGUNAKAN APLIKASI<H>
 
 tampilan halaman "Home"
+<img width="960" alt="Cuplikan layar 2024-01-06 014743" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/ac39e4ba-1efc-4e50-954e-d3ccd8a24a0d">
 
 tampilan halaman "Mahasiswa"
 
