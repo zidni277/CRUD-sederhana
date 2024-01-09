@@ -24,9 +24,11 @@ klik navbar pada halaman "organisasi" kemudian klik "tambah organisasi" jika ing
 
 jika ingin menghapus organisasi, klik tombol "hapus"
 
-
+<img width="960" alt="tambah data" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/cd3df11a-3ab3-4718-a7e7-bc0ef284a803">
 
 klik navbar pada halaman "mahasiswa" kemudian klik "tambah data" jika ingin menambahkan mahasiswa dan pada waktu pengisian kode organisasi, masukan kode organisasi yang tertera di halaman organisasi, pilihlah sesuai organisasi dan jabatan yang ingin dipilih
+
+<img width="960" alt="ubah data" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/bdae38af-d617-4028-a720-b8d89e5f189c">
 
 jika ingin mengubah data mahasiswa, klik tombol "ubah"
 
@@ -34,7 +36,11 @@ jika ingin mengubah data mahasiswa, klik tombol "ubah"
 
 jika ingin menghapus data mahasiswa, klik tombol "hapus"
 
+<img width="960" alt="home" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/6ca28bd4-7ef5-46ba-bba6-3e559095872b">
+
 klik navbar "home" untuk melihat seluruh data yang ada pada database "dbcrud_modal"
+
+<img width="960" alt="total data" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/5c273c01-f3e2-429b-b7a3-1f24176b00d3">
 
 klik tombol "total data" jika ingin melihat total data yang tersimpan
 
@@ -42,7 +48,11 @@ klik tombol "total data" jika ingin melihat total data yang tersimpan
 
 klik "cari mahasiswa" jika ingin mencari mahasiswa tertentu dengan memasukan nim atau nama kemudian klik "cari"
 
+<img width="960" alt="total data" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/5c273c01-f3e2-429b-b7a3-1f24176b00d3">
+
 jika ingin kembali ke awal klik "reset"
+
+<img width="960" alt="laporan" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/6050641b-9927-4035-a913-c464b1c2d3b7">
 
 klik navbar "laporan" untuk melihat laporan data mahasiswa yang telah dimasukan
 
