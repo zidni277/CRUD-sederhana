@@ -1,6 +1,6 @@
 <h>CARA MENGGUNAKAN APLIKASI<H>
 
-
+<img width="960" alt="home" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/4887fe7c-c1c1-440b-b4d8-7d67f9ac71a6">
 
 tampilan halaman "Home"
 
@@ -8,13 +8,15 @@ tampilan halaman "Home"
 
 tampilan halaman "Mahasiswa"
 
+<img width="960" alt="organisasi" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/a0f4a23f-b3cd-4172-a120-981e962e00f8">
+
 tampilan halaman "Organisasi"
 
 <img width="960" alt="laporan" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/888b6b10-fabe-49bd-b696-9389e83932c2">
 
 tampilan halaman "Laporan"
 
-
+<img width="960" alt="tambah organisasi" src="https://github.com/zidni277/CRUD-sederhana/assets/155417783/0a9be372-2e45-4f99-9222-d15c53856ccf">
 
 klik navbar pada halaman "organisasi" kemudian klik "tambah organisasi" jika ingin menambahkan organisasi
 
